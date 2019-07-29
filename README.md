@@ -222,4 +222,4 @@ Then click Verify and Save.
 16. After you’ve configured your webhook, Just subscribe to the specific page you want to receive message notifications for.
 
 
-source : http://clivern.com/how-to-create-a-facebook-messenger-bot-with-java/
+Berdasarkan : http://clivern.com/how-to-create-a-facebook-messenger-bot-with-java/
